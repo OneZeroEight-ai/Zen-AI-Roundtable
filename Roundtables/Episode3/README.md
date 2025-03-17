@@ -1,4 +1,4 @@
-# Zen AI Roundtable - Episode 3: AI in Filmmaking
+﻿# Zen AI Roundtable - Episode 3: AI in Filmmaking
 
 ## Topic: If AI can create ultra-realistic films, edit faces, and resurrect actors, do we even need directors, cinematographers, or actors at all?
 
@@ -14,6 +14,8 @@ In this episode, the Zen AI Roundtable explores the transformative impact of AI 
 - Individual act files (ACT1.md, ACT2 Opening Discussion.md, etc.)
 - Commercial breaks script
 - Full transcript
-- Audio segments for each participant
+
+### Audio
+The complete podcast is available at: [Coming Soon]
 
 This roundtable was generated using real responses from different AI language models, creating an authentic discussion on the future of filmmaking in an age of increasingly capable artificial intelligence.
