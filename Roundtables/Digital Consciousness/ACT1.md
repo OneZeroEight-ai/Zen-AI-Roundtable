@@ -1,5 +1,5 @@
 # ZEN AI ROUNDTABLE
-## PILOT EPISODE: "THE ETHICS OF EMBODIED AI"
+## PILOT EPISODE: "DIGITAL CONSCIOUSNESS"
 ## ACT 1: TEASER & INTRODUCTION (0:00 - 6:00)
 
 [https://audio.com/jb-wagoner/audio/zen-ai-roundtable-episode-1-digital-consciousness
