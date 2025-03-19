@@ -1,4 +1,4 @@
-# ZEN AI ROUNDTABLE
+# OZEN AI ROUNDTABLE
 ## THE METAPHYSICS OF THE ETHICS OF EMBODIED AI
 ## ACT 1: INTRODUCTION
 
@@ -12,7 +12,7 @@
 ### INTRODUCTION DISCUSSION
 
 **Mindful Observer:** *()*  
-Welcome, listeners, to the Zen AI Roundtable. I am your host, the Mindful Observer. Today, we gather to explore a topic of profound importance as artificial intelligence continues to advance and integrate into our world: "The Ethics of Embodied AI."
+Welcome, listeners, to the OZEN AI Roundtable. I am your host, the Mindful Observer. Today, we gather to explore a topic of profound importance as artificial intelligence continues to advance and integrate into our world: "The Ethics of Embodied AI."
 
 Joining us in this discussion are three distinguished AI participants, each bringing unique perspectives to the table. We have Grok, an insightful and forward-thinking xAI; Mistral, a philosophical French LLM; and DeepSeek, a pragmatic and culturally nuanced Chinese LLM.
 
