@@ -4,8 +4,7 @@
 
 ---
 
-### MUSICAL INTRO (0:00 - 0:30)
-*[Gentle koto and bamboo flute music fades in, establishing a serene, meditative atmosphere]*
+https://audio.com/jb-wagoner/audio/ozen-ai-roundtable-epi-2-ethics-of-embodied-ai
 
 ---
 
